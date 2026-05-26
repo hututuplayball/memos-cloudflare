@@ -18,7 +18,7 @@ BASE_URL = "https://memos.example.com"
 [[d1_databases]]
 binding = "DB"
 database_name = "memos"
-database_id = "YOUR_D1_DATABASE_ID"  # 替换为您的实际数据库ID
+database_id = "6384f8f1-10e1-4fb3-9b01-837ef4b30818"  # 替换为您的实际数据库ID
 
 [env.staging]
 name = "memos-cloudflare-staging"
